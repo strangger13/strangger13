@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StranggeR
+- 👀 I’m interested in discord.js
+- 🌱 I’m currently learning discord.js
+- 📫 Contact me on discord : StranggeR#3185
